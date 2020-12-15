@@ -12,6 +12,7 @@ public class MainTest {
 		while(num>0)
 		{
 			int rem=num%10;
+			int quo=num/10;
 		}
 	}
 
