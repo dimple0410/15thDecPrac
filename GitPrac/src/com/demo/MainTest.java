@@ -9,7 +9,10 @@ public class MainTest {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number::");
 		int num=sc.nextInt();
-		
+		while(num>0)
+		{
+			int rem=num%10;
+		}
 	}
 
 }
